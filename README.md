@@ -37,6 +37,26 @@ conda activate pricing_optimizer
 #Verify installation:
 python -c "import lightgbm, mlflow, pandas, numpy; print('✅ Environment ready!')"
 
+#To run the pricing optimizer script:
+python optimize_price_all.py
+
+#Notes
+
+#This environment is isolated from other Conda environments to prevent dependency conflicts.
+
+#You can export this environment for reproducibility:
+
+conda env export > environment.yml
+
+
+#To remove the environment:
+
+conda deactivate
+conda env remove -n pricing_optimizer
+
+#⚡ Optional Extensions
+#Add dvc for data versioning.
+#Integrate feature stores or metrics stores as needed.
 
 
 #if not using environment.yml
