@@ -69,3 +69,13 @@ conda install -c conda-forge lightgbm mlflow pandas numpy scikit-learn
 
 python /Users/michael/Documents/python/pricing_optimizer/optimize_price_all.py
 
+#Check your MLflow runs
+#From your project folder, run:
+mlflow ui
+
+#Open http://127.0.0.1:5000 in your browser.
+
+#Navigate to your experiment (mlruns/<experiment_id>).
+
+Look at the run IDs and the artifact paths. Make sure lightgbm_pricing exists.
+

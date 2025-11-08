@@ -96,8 +96,8 @@ try:
         mlflow.log_metric('mape', mape)
         
         # Log model with input example
-        mlflow.lightgbm.log_model(model, name='lightgbm_pricing', input_example=input_example)
-        
+        mlflow.lightgbm.log_model(model, artifact_path='lightgbm_pricing', input_example=input_example)
+
         print(f"Model trained successfully. RMSE: {rmse}, MAPE: {mape:.2f}%")
 except Exception as e:
     print(f"Error during MLflow run: {e}")

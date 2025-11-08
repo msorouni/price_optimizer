@@ -1,0 +1,38 @@
+artifact_path: lightgbm_pricing
+flavors:
+  lightgbm:
+    code: null
+    data: model.lgb
+    lgb_version: 4.6.0
+    model_class: lightgbm.basic.Booster
+  python_function:
+    data: model.lgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.11.13
+is_signature_from_type_hint: false
+mlflow_version: 2.22.2
+model_size_bytes: 1540349
+model_uuid: 6d3a03f2521c43d18eba4686d80bc0ea
+prompts: null
+run_id: 2e061f727dd74be3be4c53e1a8d59beb
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "hour_of_day", "required": true}, {"type":
+    "double", "name": "price_diff", "required": true}, {"type": "double", "name":
+    "temp_c", "required": true}, {"type": "double", "name": "volume_lag_1h", "required":
+    true}, {"type": "double", "name": "volume_lag_24h", "required": true}, {"type":
+    "double", "name": "avg_volume_7d", "required": true}, {"type": "double", "name":
+    "pct_change_price_7d", "required": true}, {"type": "double", "name": "pct_change_volume_7d",
+    "required": true}, {"type": "double", "name": "traffic_score", "required": true},
+    {"type": "double", "name": "promo_interaction", "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-08 02:31:26.433015'

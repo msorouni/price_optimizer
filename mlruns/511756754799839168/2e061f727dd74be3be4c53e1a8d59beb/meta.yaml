@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/michael/Documents/python/pricing_optimizer/mlruns/511756754799839168/2e061f727dd74be3be4c53e1a8d59beb/artifacts
+end_time: 1762569094414
+entry_point_name: ''
+experiment_id: '511756754799839168'
+lifecycle_stage: active
+run_id: 2e061f727dd74be3be4c53e1a8d59beb
+run_name: nebulous-colt-578
+run_uuid: 2e061f727dd74be3be4c53e1a8d59beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762569085998
+status: 3
+tags: []
+user_id: michael

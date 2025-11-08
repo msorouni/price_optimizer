@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/michael/Documents/python/pricing_optimizer/mlruns/511756754799839168/bea9238bb2294e60aed391ed4df3f200/artifacts
+end_time: 1762568545309
+entry_point_name: ''
+experiment_id: '511756754799839168'
+lifecycle_stage: active
+run_id: bea9238bb2294e60aed391ed4df3f200
+run_name: vaunted-horse-393
+run_uuid: bea9238bb2294e60aed391ed4df3f200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762568544674
+status: 4
+tags: []
+user_id: michael
