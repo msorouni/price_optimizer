@@ -28,6 +28,9 @@ git push -u origin main
 ```bash
 cd /path/to/pricing_optimizer
 
+#First, open your terminal and list your environments:
+conda env list
+
 #Create the Conda environment:
 conda env create -f environment.yml
 
