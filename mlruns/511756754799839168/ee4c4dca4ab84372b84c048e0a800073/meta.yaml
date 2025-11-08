@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/michael/Documents/python/pricing_optimizer/mlruns/511756754799839168/ee4c4dca4ab84372b84c048e0a800073/artifacts
+end_time: 1758016184959
+entry_point_name: ''
+experiment_id: '511756754799839168'
+lifecycle_stage: active
+run_id: ee4c4dca4ab84372b84c048e0a800073
+run_name: flawless-crane-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758016178919
+status: 3
+tags: []
+user_id: michael

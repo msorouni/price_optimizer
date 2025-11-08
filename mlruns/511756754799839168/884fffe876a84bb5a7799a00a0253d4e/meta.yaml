@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/michael/Documents/python/pricing_optimizer/mlruns/511756754799839168/884fffe876a84bb5a7799a00a0253d4e/artifacts
+end_time: 1758014901411
+entry_point_name: ''
+experiment_id: '511756754799839168'
+lifecycle_stage: active
+run_id: 884fffe876a84bb5a7799a00a0253d4e
+run_name: blushing-ox-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758014895608
+status: 3
+tags: []
+user_id: michael

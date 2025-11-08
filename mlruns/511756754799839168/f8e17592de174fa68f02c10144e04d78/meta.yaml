@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/michael/Documents/python/pricing_optimizer/mlruns/511756754799839168/f8e17592de174fa68f02c10144e04d78/artifacts
+end_time: 1758016159668
+entry_point_name: ''
+experiment_id: '511756754799839168'
+lifecycle_stage: active
+run_id: f8e17592de174fa68f02c10144e04d78
+run_name: grandiose-cow-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758016153833
+status: 3
+tags: []
+user_id: michael

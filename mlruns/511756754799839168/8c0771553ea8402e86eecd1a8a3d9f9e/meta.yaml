@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/michael/Documents/python/pricing_optimizer/mlruns/511756754799839168/8c0771553ea8402e86eecd1a8a3d9f9e/artifacts
+end_time: 1758013643317
+entry_point_name: ''
+experiment_id: '511756754799839168'
+lifecycle_stage: active
+run_id: 8c0771553ea8402e86eecd1a8a3d9f9e
+run_name: adventurous-ram-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758013637701
+status: 3
+tags: []
+user_id: michael

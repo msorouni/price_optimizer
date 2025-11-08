@@ -1,0 +1,10 @@
+artifact_location: file:///Users/michael/Documents/python/pricing_optimizer/mlruns/511756754799839168/models/m-1e7bc17aff574a759fea549449c69e7e/artifacts
+creation_timestamp: 1758014895799
+experiment_id: '511756754799839168'
+last_updated_timestamp: 1758014901407
+model_id: m-1e7bc17aff574a759fea549449c69e7e
+model_type: null
+name: lightgbm_pricing
+source_run_id: 884fffe876a84bb5a7799a00a0253d4e
+status: 2
+status_message: null

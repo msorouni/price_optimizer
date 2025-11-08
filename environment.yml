@@ -1,0 +1,17 @@
+name: pricing_optimizer
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - lightgbm
+  - mlflow
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - jupyterlab
+  - pip
+  - pip:
+      - azureml-mlflow
+      - azure-storage-blob

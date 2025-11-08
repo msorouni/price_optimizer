@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/michael/Documents/python/pricing_optimizer/mlruns/511756754799839168/ac101d9edb4c4c9bbf05d4b92661abed/artifacts
+end_time: 1758013588885
+entry_point_name: ''
+experiment_id: '511756754799839168'
+lifecycle_stage: active
+run_id: ac101d9edb4c4c9bbf05d4b92661abed
+run_name: salty-elk-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758013582900
+status: 3
+tags: []
+user_id: michael

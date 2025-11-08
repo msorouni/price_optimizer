@@ -1,0 +1,10 @@
+artifact_location: file:///Users/michael/Documents/python/pricing_optimizer/mlruns/511756754799839168/models/m-8e9d41f56c284fbb89010a3d315f61df/artifacts
+creation_timestamp: 1758012872507
+experiment_id: '511756754799839168'
+last_updated_timestamp: 1758012872528
+model_id: m-8e9d41f56c284fbb89010a3d315f61df
+model_type: null
+name: rogue-hen-554
+source_run_id: 123c59055015436f9e32d7b4628fac19
+status: 3
+status_message: null

@@ -1,0 +1,21 @@
+artifact_path: file:///Users/michael/Documents/python/pricing_optimizer/mlruns/511756754799839168/models/m-adea48459fdf408d81276e6fc3d29894/artifacts
+flavors:
+  lightgbm:
+    code: null
+    data: model.lgb
+    lgb_version: 4.6.0
+    model_class: lightgbm.basic.Booster
+  python_function:
+    data: model.lgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.13.2
+mlflow_version: 3.3.2
+model_id: m-adea48459fdf408d81276e6fc3d29894
+model_size_bytes: 3192
+model_uuid: m-adea48459fdf408d81276e6fc3d29894
+prompts: null
+run_id: 609ef24aa7f9475581e6c490b477f26a
+utc_time_created: '2025-09-16 06:46:23.016364'

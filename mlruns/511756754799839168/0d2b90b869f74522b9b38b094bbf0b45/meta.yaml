@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/michael/Documents/python/pricing_optimizer/mlruns/511756754799839168/0d2b90b869f74522b9b38b094bbf0b45/artifacts
+end_time: 1758006795737
+entry_point_name: ''
+experiment_id: '511756754799839168'
+lifecycle_stage: active
+run_id: 0d2b90b869f74522b9b38b094bbf0b45
+run_name: rogue-crab-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758006790357
+status: 3
+tags: []
+user_id: michael
